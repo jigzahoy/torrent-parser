@@ -1,0 +1,19 @@
+{
+  "name": "torrent-parser",
+  "version": "1.0.0",
+  "description": "Torrent filename parser using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Jigz Castro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigzahoy/torrent-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jigzahoy/torrent-parser/issues"
+  },
+  "homepage": "https://github.com/jigzahoy/torrent-parser#readme"
+}
