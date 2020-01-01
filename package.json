@@ -4,7 +4,7 @@
   "description": "Torrent filename parser using JavaScript",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js"
+    "start": "node --experimental-modules index.mjs"
   },
   "author": "Jigz Castro",
   "license": "ISC",
