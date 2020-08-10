@@ -5,6 +5,4 @@ Some of the RegEx patterns are from [jzjzjzj](https://github.com/jzjzjzj/parse-t
 
 ## TODO
 
-- Apply Design Patterns
-- Optimize Code
-- Export to JSON file
+- Add tests

@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Torrent filename parser using JavaScript",
   "main": "index.js",
-  "scripts": {
-    "start": "node --experimental-modules index.mjs"
-  },
+  "scripts": {},
   "author": "Jigz Castro",
   "license": "ISC",
   "repository": {
